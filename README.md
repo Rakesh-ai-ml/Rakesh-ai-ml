@@ -27,7 +27,6 @@ QLoRA (4-bit NF4) on a curated 4,715-pair instruction dataset — **6.16% traina
 ## 📚 More
 - **[History-Rag](https://github.com/Rakesh-ai-ml/History-Rag)** — RAG over historical documents
 - **[Bankruptcy Prediction](https://bankruptcy-prediction.duckdns.org/)** — CatBoost + Optuna + MLflow, FastAPI + Docker on EC2 (ROC-AUC 0.84) · [live demo](https://bankruptcy-prediction.duckdns.org/)
-- **[Churn Classification](https://github.com/Rakesh-ai-ml/Chrun-Classification)** — end-to-end tabular ML
 
 ---
 
